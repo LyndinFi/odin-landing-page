@@ -55,7 +55,7 @@
 
 .hero-left > h2 {
     font-size: 48px;
-    font-style: extra-bold;
+    font-weight: bold;
 }
 
 .hero-left > p {
@@ -115,6 +115,24 @@
     align-items: center;
     gap: 1rem;
     text-align: center;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.quote-author > p {
+    font-weight: bold;
 }
 
 
