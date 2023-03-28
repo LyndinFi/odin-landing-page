@@ -23,3 +23,21 @@
     font-size: 12px;
 }
 
+
+
+.hero-section {
+    background-color: #1F2937;
+    color:#F9FAF8;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero-left {
+    border: 1px solid white;
+}
+
+.hero-right {
+    border: 1px solid white;
+    min-height: 200px;
+    min-width: 300px; 
+}
