@@ -46,7 +46,7 @@
 }
 
 .hero-left {
-    border: 1px solid white;
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -72,7 +72,7 @@
 }
 
 .hero-right {
-    border: 1px solid white;
+    
     min-height: 200px;
     min-width: 50%; 
     display: flex;
