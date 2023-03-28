@@ -135,5 +135,32 @@
     font-weight: bold;
 }
 
+.action {
+    background-color: #F9FAF8;
+    margin-top: 50px;
+}
+
+.action > .contain {
+    padding-left: 16%;
+    padding-right: 16%;
+}
+
+.action-container {
+    background-color: #3882f6;
+    color:#F9FAF8;
+    padding: 20px 20px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.action-right > button {
+    color:#F9FAF8;
+    background-color: transparent;
+    border: 1px solid #F9FAF8;
+    border-radius: 2px;
+}
+
 
 
